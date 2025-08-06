@@ -1,0 +1,1 @@
+# ZynqSoC_XC7Z010-1CLG400I
